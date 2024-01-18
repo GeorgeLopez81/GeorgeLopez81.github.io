@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image:
+image:GeorgeLopez81.github.io/img
+/Team.jpeg
 title: "The Better Way"
 date: 2024
 published: true
