@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image:Team.jpeg
 title: "The Better Way"
 date: 2024
 published: true
