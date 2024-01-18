@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "awsomedad"
+title: "The Better Way"
 date: 2024
 published: true
 labels:
@@ -20,7 +20,7 @@ summary: "My team produces well-thought-out processes that will make your busine
 
 The Better Way is a group of highly motivated,sofisticated and forward thinking individuals with one goal in mind. Make your buisness Better!
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I was the lead manager who was responsible for the programming department and various other departement to include the Human Resourse department. 
 
 Here is some code that illustrates how we read values from the line sensors:
 
