@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:img/Team.jpeg
+image:https://raw.githubusercontent.com/GeorgeLopez81/GeorgeLopez81.github.io/main/img/Screen%20Shot%202024-01-18%20at%2010.13.43%20PM.png
 title: "The Better Way"
 date: 2024
 published: true
