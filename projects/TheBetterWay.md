@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:img/Screen Shot 2024-01-18 at 10.13.43 PM.png
+image:"img/Screen Shot 2024-01-18 at 10.13.43 PM.png"
 title: "The Better Way"
 date: 2024
 published: true
